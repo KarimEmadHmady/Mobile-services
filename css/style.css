@@ -575,6 +575,10 @@ header nav .form i {
 /* Start Video */
 .video {
   position: relative;
+  background-image: url(../img/vid.jpg);
+  background-size: cover;
+  width: 100%;
+  height: 600px;
 }
 
 .video::before {
